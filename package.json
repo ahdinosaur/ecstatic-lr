@@ -1,0 +1,34 @@
+{
+  "name": "ecstatic-lr",
+  "version": "1.0.0",
+  "description": "ecstatic with inject-lr-script",
+  "main": "index.js",
+  "bin": "bin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahdinosaur/ecstatic-lr.git"
+  },
+  "keywords": [
+    "static",
+    "lr",
+    "livereload",
+    "http",
+    "dev",
+    "server"
+  ],
+  "author": "ahdinosaur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahdinosaur/ecstatic-lr/issues"
+  },
+  "homepage": "https://github.com/ahdinosaur/ecstatic-lr#readme",
+  "dependencies": {
+    "defined": "^1.0.0",
+    "ecstatic": "^0.8.0",
+    "inject-lr-script": "^1.0.1",
+    "minimist": "^1.1.1"
+  }
+}
