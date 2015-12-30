@@ -7,7 +7,7 @@ module.exports = createEcstaticLr
 
 function createEcstaticLr (dir, opts) {
   if (typeof dir !== 'string') {
-    options = dir
+    opts = dir
     dir = opts.root
   }
 
