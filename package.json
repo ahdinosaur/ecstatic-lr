@@ -1,6 +1,6 @@
 {
   "name": "ecstatic-lr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ecstatic with inject-lr-script",
   "main": "index.js",
   "bin": "bin.js",
